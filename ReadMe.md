@@ -78,6 +78,10 @@ yandex-shar-tlc/
   |   |-- checks.py
   |   |-- schema.py
   |   `-- export_csv.py
+  |-- docs/
+  |   |--summary.md
+  |   |--hypotheses.md
+  |   |--mart_structure.md
   `-- .venv/
 ```
 
